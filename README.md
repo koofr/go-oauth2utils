@@ -1,5 +1,4 @@
-go-oauth2utils
-==============
+# go-oauth2utils
 
 Go OAuth2 utils.
 
@@ -7,9 +6,12 @@ Go OAuth2 utils.
 
 ## Install
 
-    go get github.com/koofr/go-oauth2utils
+```sh
+go get github.com/koofr/go-oauth2utils
+```
 
 ## Testing
 
-    go get -t
-    go test
+```sh
+go test
+```
